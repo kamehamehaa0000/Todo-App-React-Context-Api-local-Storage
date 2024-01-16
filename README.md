@@ -2,4 +2,4 @@
 
 Screenshot:
 
-- ![@vitejs/plugin-react](public\todo_SS.JPG)
+ ![todos](./public/todo_SS.jpg)
